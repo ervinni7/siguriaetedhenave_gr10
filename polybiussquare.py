@@ -39,7 +39,7 @@ def decrypt(code):
 
 def test():
     while True:
-        print("Indekset i metodave qe mund te perdorni: ")
+        print(" Zgjidhni një opsion: ")
         print("1. Encrypt")
         print("2. Decrypt")
         print("3. Exit")
