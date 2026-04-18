@@ -1,4 +1,4 @@
-# Siguria e të Dhënave — Gr. 10
+# Siguria e të Dhënave - Gr. 10
 
 Projekt nga lënda **Siguria e të Dhënave** që implementon dy algoritme klasike të kriptografisë në Python:
 
